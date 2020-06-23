@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f583fba-fe51-4f31-9d6c-2aa4903d4158" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cU1XzoxJW3jQXpcFZ5J2Je9Kt4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\T430s\Desktop\Предмети\СТП\L8\2" />
+      <recent name="C:\Users\T430s\Desktop\Предмети\СТП\L8\2\blog\templates\blog" />
+      <recent name="C:\Users\T430s\Desktop\Предмети\СТП\L8\2\blog\templates" />
+      <recent name="C:\Users\T430s\Desktop\Предмети\СТП\L8\2\blog\templates\auth" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f583fba-fe51-4f31-9d6c-2aa4903d4158" name="Default Changelist" comment="" />
+      <created>1590568401886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590568401886</updated>
+      <workItem from="1590568403318" duration="966000" />
+      <workItem from="1590570863757" duration="11720000" />
+      <workItem from="1590653863237" duration="629000" />
+      <workItem from="1590697860027" duration="2701000" />
+      <workItem from="1590744460727" duration="8000000" />
+      <workItem from="1590785064170" duration="2835000" />
+      <workItem from="1590830091747" duration="356000" />
+      <workItem from="1590927970067" duration="10000" />
+      <workItem from="1592940702323" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590698508445">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1590698508445" />
+    <state x="550" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590786839050">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="550" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1590786839050" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1590570725294">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1590570725294" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1590744635546">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1600.860@0.0.1600.860" timestamp="1590744635546" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1590927969979">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1590697860869" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1590927969979" />
+    <state x="441" y="156" width="700" height="530" key="recent.locations.popup" timestamp="1590746423958">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="441" y="156" width="700" height="530" key="recent.locations.popup/0.0.1600.860@0.0.1600.860" timestamp="1590746423958" />
+  </component>
+</project>

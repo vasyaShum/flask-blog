@@ -1,0 +1,36 @@
+{% extends 'layout.html' %}
+
+{% block header %}
+    <h1>{% block title %}Edit{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+    <div class="form py-3">
+        <form method="post">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <div class="form-group">
+                        <strong>Title:</strong>
+                        <input type="text" name="title" class="form-control" value="{{ request.form['title'] or post['title'] }}" placeholder="Title" autocomplete="off" required>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <div class="form-group">
+                        <strong>Text:</strong>
+                        <textarea  name="text" class="form-control" style="height:150px" placeholder="Text" autocomplete="off" required>
+                            {{ request.form['text'] or post['text'] }}
+                        </textarea>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                    <button type="submit" class="btn btn-primary">Update</button>
+                    <a class="btn btn-danger" href="{{ url_for('site.delete', id=post['id']) }}">Delete</a>
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+
+{% endblock %}

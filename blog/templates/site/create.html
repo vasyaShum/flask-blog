@@ -1,0 +1,33 @@
+{% extends 'layout.html' %}
+
+{% block header %}
+    <h1>{% block title %}New Post{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+    <div class="form py-3">
+        <form method="post">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <div class="form-group">
+                        <strong>Title:</strong>
+                        <input type="text" name="title" class="form-control" placeholder="Title" autocomplete="off" required>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <div class="form-group">
+                        <strong>Text:</strong>
+                        <textarea  name="text" class="form-control" style="height:150px" placeholder="Text" autocomplete="off" required></textarea>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+
+{% endblock %}
